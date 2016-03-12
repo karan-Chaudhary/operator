@@ -11,4 +11,14 @@ public class Bitwise{
 	System.out.println("a>>2="+(a>>2));
 	System.out.println("a>>>2="+(a>>>2));	
 	}
+}vhjjbxj,x
+.k
+jkcbjcq
+cj
+cmn
+cjv
+
+
+ method() throws  {
+	
 }
